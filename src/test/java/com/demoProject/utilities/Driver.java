@@ -1,6 +1,5 @@
 package com.demoProject.utilities;
 
-import com.demoProject.StepDefinitions.ConfigurationReader;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebDriverException;

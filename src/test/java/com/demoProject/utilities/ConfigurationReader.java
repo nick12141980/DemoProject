@@ -1,4 +1,4 @@
-package com.demoProject.StepDefinitions;
+package com.demoProject.utilities;
 
 import java.io.FileInputStream;
 import java.util.Properties;
